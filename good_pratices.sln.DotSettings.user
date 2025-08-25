@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AInvalidOperationException_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F56fad711d44d4d47bc9f3128de5ae30ac90920_003F85_003Feca99d2d_003FInvalidOperationException_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/AutoDownloadSdk/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/CustomBuildToolPath/@EntryValue">C:\Program Files\dotnet\sdk\8.0.413\MSBuild.dll</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/BuildTool/DotNetCliExePath/@EntryValue">C:\Program Files\dotnet\dotnet.exe</s:String>
+	
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentBuildToolPaths/=C_003A_005CProgram_0020Files_005Cdotnet_005Csdk_005C8_002E0_002E413_005Cdotnet_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/BuildTool/RecentBuildToolPaths/=C_003A_005CProgram_0020Files_005Cdotnet_005Csdk_005C8_002E0_002E413_005CMSBuild_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/Build/SolutionBuilderNext/ShouldRestoreNugetPackages/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a933654d_002De966_002D46c8_002D8b8a_002D0eb934fe8556/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestConnection" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.UnitTests.TestDBconnection.TestConnection&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostTest.Ts&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostTest.Post&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostAndGetTest.Get&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

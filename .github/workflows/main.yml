@@ -1,0 +1,29 @@
+﻿name: Ci_Service
+
+on:
+  push: 
+    branches:
+      - master
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Chekcout Code
+        uses: Actions/Checkout@v3
+        
+      - name: Setup
+        uses: Actions/setup-dotnet@v3
+        with: 
+          dotnet-version: '8.0.x'
+          
+      - name: Restore Dependencies
+        uses: dotnet restore
+      
+      - name: Test Application
+        uses: dotnet test --no-build --verbosity normal
+        
+      - name: Run Application
+        uses: dotnet build --configuration Release --no-restore
+        
