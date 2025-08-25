@@ -11,8 +11,8 @@ namespace Core.Uses_Cases;
 
 public interface ICarHandle
 {
-    Task<JsonResponses<CarsFactory?>> PostHandler(CarDto request);
+    Task<JsonResponses<CarStorage?>> PostHandler(CarDto request);
   
-    Task<JsonResponses<CarsFactory?>> UpdateHandler(CarDto request, int id);
+    Task<JsonResponses<CarStorage?>> UpdateHandler(CarDto request, int id);
     
 }

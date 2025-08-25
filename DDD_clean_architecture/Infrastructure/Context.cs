@@ -9,5 +9,5 @@ public class Context: DbContext
     {
     }
 
-    public DbSet<CarsFactory> Cars { get; set; }
+    public DbSet<CarStorage> Cars { get; set; }
 }

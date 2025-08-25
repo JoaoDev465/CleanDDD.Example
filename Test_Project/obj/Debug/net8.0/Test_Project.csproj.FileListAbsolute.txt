@@ -541,3 +541,7 @@ C:\Users\User\RiderProjects\good_pratices\Test_Project\obj\Debug\net8.0\refint\T
 C:\Users\User\RiderProjects\good_pratices\Test_Project\obj\Debug\net8.0\Test_Project.pdb
 C:\Users\User\RiderProjects\good_pratices\Test_Project\obj\Debug\net8.0\Test_Project.genruntimeconfig.cache
 C:\Users\User\RiderProjects\good_pratices\Test_Project\obj\Debug\net8.0\ref\Test_Project.dll
+C:\Users\User\RiderProjects\good_pratices\Test_Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\RiderProjects\good_pratices\Test_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\RiderProjects\good_pratices\Test_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\RiderProjects\good_pratices\Test_Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll

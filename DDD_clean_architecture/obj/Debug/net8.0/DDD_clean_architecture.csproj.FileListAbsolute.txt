@@ -447,3 +447,8 @@ C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\obj\Debug\net8.
 C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\obj\Debug\net8.0\DDD_clean_architecture.pdb
 C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\obj\Debug\net8.0\DDD_clean_architecture.genruntimeconfig.cache
 C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\obj\Debug\net8.0\ref\DDD_clean_architecture.dll
+C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\RiderProjects\good_pratices\DDD_clean_architecture\obj\Debug\net8.0\DDD_clean_architecture.MvcApplicationPartsAssemblyInfo.cs

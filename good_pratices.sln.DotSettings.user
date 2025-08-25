@@ -13,5 +13,6 @@
     &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostTest.Ts&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostTest.Post&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostAndGetTest.Get&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::80497606-E4BC-4383-AD4B-42E97A0B1B35::net8.0::Test_Project.IntegrationTests.IntegrationHttpTest.HttpPostAndUpdateTest.Post&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

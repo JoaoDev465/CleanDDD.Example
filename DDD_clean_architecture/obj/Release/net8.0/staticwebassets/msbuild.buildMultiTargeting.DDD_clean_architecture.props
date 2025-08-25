@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DDD_clean_architecture.props" />
+</Project>
