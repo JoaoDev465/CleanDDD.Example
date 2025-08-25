@@ -19,11 +19,11 @@ jobs:
           dotnet-version: '8.0.x'
           
       - name: Restore Dependencies
-        uses: dotnet restore
+        run: dotnet restore
       
       - name: Test Application
-        uses: dotnet test --no-build --verbosity normal
+        run: dotnet test --no-build --verbosity normal
         
       - name: Run Application
-        uses: dotnet build --configuration Release --no-restore
+        run: dotnet build --configuration Release --no-restore
         
